@@ -1,0 +1,46 @@
+modification on:
+rankTable.php
+	line 64-104
+	just copy the whole php file
+
+teamRankList.php
+	line 306-313 added
+	line 177 add following line
+<?php echo "<li><a><b>Hello  ".'<font color="white">' . $username . '</br></font></a></li>';  ?>
+
+
+teamSubmit.php
+	line 97 add following line
+<?php echo "<li><a><b>Hello  ".'<font color="white">' . $username . '</br></font></a></li>';  ?>
+
+
+teamAdminQuery.php
+	line 93 add following line
+<?php echo "<li><a><b>Hello  ".'<font color="white">' . $username . '</br></font></a></li>';  ?>
+
+
+teamloginallquery.php
+	copy all
+
+teamloginloadmyquery.php
+	copy all
+
+adminMonitorAllQuery.php
+	copy all
+
+
+	line 94 add following line
+<?php echo "<li><a><b>Hello  ".'<font color="white">' . $username . '</br></font></a></li>';  ?>
+
+
+adminMonitorRunningContest.php
+	line 191,194,195 add br tag
+
+adminLiveRankTable.php
+	copy whole page
+
+adminMonitorAllQuery.php
+	copy whole page
+
+
+

@@ -1,0 +1,1415 @@
+Case 1:
+Query 1: 5 9
+Query 2: 3
+Query 3: Impossible input.
+Case 2:
+Query 1: 1 3 7
+Case 3:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 8
+Query 10: 9
+Case 4:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 6 8
+Query 8: 7
+Query 9: 6 8
+Query 10: 5 9
+Case 5:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 8
+Query 10: 9
+Case 6:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 8
+Query 10: 9
+Case 7:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 8 9
+Query 10: 8 9
+Case 8:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3 9
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 8
+Query 10: 3 9
+Case 9:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 8
+Query 10: 9
+Case 10:
+Query 1: 0 8
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 0 8
+Query 10: 9
+Case 11:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 6 8
+Query 8: 7
+Query 9: 6 8
+Query 10: 5 9
+Case 12:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 6 8
+Query 8: 7
+Query 9: 6 8
+Query 10: 5 9
+Case 13:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 6 8 9
+Query 7: 5 6 8 9
+Query 8: 7
+Query 9: 5 6 8 9
+Query 10: 5 6 8 9
+Case 14:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3 5 9
+Query 5: 4
+Query 6: 3 5 9
+Query 7: 6 8
+Query 8: 7
+Query 9: 6 8
+Query 10: 3 5 9
+Case 15:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 6 8
+Query 8: 1 7
+Query 9: 6 8
+Query 10: 5 9
+Case 16:
+Query 1: 0 6 8
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 0 6 8
+Query 8: 7
+Query 9: 0 6 8
+Query 10: 5 9
+Case 17:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 8
+Query 10: 9
+Case 18:
+Query 1: 0
+Query 2: 1
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 8 9
+Query 10: 8 9
+Case 19:
+Query 1: 0
+Query 2: 1
+Query 3: 2 8
+Query 4: 3 9
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 2 8
+Query 10: 3 9
+Case 20:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 8
+Query 10: 9
+Case 21:
+Query 1: 0 8
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 0 8
+Query 10: 9
+Case 22:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 8 9
+Query 10: 8 9
+Case 23:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3 9
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 8
+Query 10: 3 9
+Case 24:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4 9
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 8
+Query 10: 4 9
+Case 25:
+Query 1: 0 8
+Query 2: 1
+Query 3: 2
+Query 4: 3 7
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 3 7
+Query 9: 0 8
+Query 10: 9
+Case 26:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3 8 9
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 3 8 9
+Query 10: 3 8 9
+Case 27:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 7
+Query 9: 8 9
+Query 10: 8 9
+Case 28:
+Query 1: 0 8 9
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 0 8 9
+Query 10: 0 8 9
+Case 29:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3 9
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 8
+Query 10: 3 9
+Case 30:
+Query 1: 0 8
+Query 2: 1 4
+Query 3: 2
+Query 4: 3 9
+Query 5: 1 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 0 8
+Query 10: 3 9
+Case 31:
+Query 1: 0 8
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 0 8
+Query 10: 9
+Case 32:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 6 8
+Query 8: 7
+Query 9: 6 8
+Query 10: 5 9
+Case 33:
+Query 1: 0
+Query 2: 1
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 5 6 8 9
+Query 7: 5 6 8 9
+Query 8: 7
+Query 9: 5 6 8 9
+Query 10: 5 6 8 9
+Case 34:
+Query 1: 0
+Query 2: 1
+Query 3: 2 6 8
+Query 4: 3 5 9
+Query 5: 4
+Query 6: 3 5 9
+Query 7: 2 6 8
+Query 8: 7
+Query 9: 2 6 8
+Query 10: 3 5 9
+Case 35:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 6 8
+Query 8: 1 7
+Query 9: 6 8
+Query 10: 5 9
+Case 36:
+Query 1: 0 6 8
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 0 6 8
+Query 8: 7
+Query 9: 0 6 8
+Query 10: 5 9
+Case 37:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 6 8 9
+Query 7: 5 6 8 9
+Query 8: 7
+Query 9: 5 6 8 9
+Query 10: 5 6 8 9
+Case 38:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3 5 9
+Query 5: 4
+Query 6: 3 5 9
+Query 7: 6 8
+Query 8: 7
+Query 9: 6 8
+Query 10: 3 5 9
+Case 39:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4 5 9
+Query 6: 4 5 9
+Query 7: 6 8
+Query 8: 1 7
+Query 9: 6 8
+Query 10: 4 5 9
+Case 40:
+Query 1: 0 6 8
+Query 2: 1
+Query 3: 2
+Query 4: 3 7
+Query 5: 4
+Query 6: 5 9
+Query 7: 0 6 8
+Query 8: 3 7
+Query 9: 0 6 8
+Query 10: 5 9
+Case 41:
+Query 1: 0
+Query 2: 1
+Query 3: 2
+Query 4: 3 5 6 8 9
+Query 5: 4
+Query 6: 3 5 6 8 9
+Query 7: 3 5 6 8 9
+Query 8: 7
+Query 9: 3 5 6 8 9
+Query 10: 3 5 6 8 9
+Case 42:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 6 8 9
+Query 7: 5 6 8 9
+Query 8: 1 7
+Query 9: 5 6 8 9
+Query 10: 5 6 8 9
+Case 43:
+Query 1: 0 5 6 8 9
+Query 2: 1
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 0 5 6 8 9
+Query 7: 0 5 6 8 9
+Query 8: 7
+Query 9: 0 5 6 8 9
+Query 10: 0 5 6 8 9
+Case 44:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3 5 9
+Query 5: 4
+Query 6: 3 5 9
+Query 7: 6 8
+Query 8: 1 7
+Query 9: 6 8
+Query 10: 3 5 9
+Case 45:
+Query 1: 0 6 8
+Query 2: 1 4
+Query 3: 2
+Query 4: 3 5 9
+Query 5: 1 4
+Query 6: 3 5 9
+Query 7: 0 6 8
+Query 8: 7
+Query 9: 0 6 8
+Query 10: 3 5 9
+Case 46:
+Query 1: 0 6 8
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 0 6 8
+Query 8: 1 7
+Query 9: 0 6 8
+Query 10: 5 9
+Case 47:
+Query 1: 0
+Query 2: 1
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 8 9
+Query 10: 8 9
+Case 48:
+Query 1: 0
+Query 2: 1
+Query 3: 2 8
+Query 4: 3 9
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 2 8
+Query 10: 3 9
+Case 49:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4 9
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 8
+Query 10: 4 9
+Case 50:
+Query 1: 0 8
+Query 2: 1
+Query 3: 2
+Query 4: 3 7
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 3 7
+Query 9: 0 8
+Query 10: 9
+Case 51:
+Query 1: 0
+Query 2: 1
+Query 3: 2 3 8 9
+Query 4: 2 3 8 9
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 2 3 8 9
+Query 10: 2 3 8 9
+Case 52:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 7
+Query 9: 8 9
+Query 10: 8 9
+Case 53:
+Query 1: 0 8 9
+Query 2: 1
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 0 8 9
+Query 10: 0 8 9
+Case 54:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 8
+Query 4: 3 9
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 2 8
+Query 10: 3 9
+Case 55:
+Query 1: 0 2 8
+Query 2: 1 4
+Query 3: 0 2 8
+Query 4: 3 9
+Query 5: 1 4
+Query 6: 5
+Query 7: 6
+Query 8: 7
+Query 9: 0 2 8
+Query 10: 3 9
+Case 56:
+Query 1: 0 8
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 0 8
+Query 10: 9
+Case 57:
+Query 1: 0 7
+Query 2: 1
+Query 3: 2
+Query 4: 3 8 9
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 0 7
+Query 9: 3 8 9
+Query 10: 3 8 9
+Case 58:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4 8 9
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 7
+Query 9: 4 8 9
+Query 10: 4 8 9
+Case 59:
+Query 1: 0 8 9
+Query 2: 1
+Query 3: 2
+Query 4: 3 7
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 3 7
+Query 9: 0 8 9
+Query 10: 0 8 9
+Case 60:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3 4 9
+Query 5: 3 4 9
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 8
+Query 10: 3 4 9
+Case 61:
+Query 1: 0 8
+Query 2: 1 4
+Query 3: 2
+Query 4: 3 7 9
+Query 5: 1 4
+Query 6: 5
+Query 7: 6
+Query 8: 3 7 9
+Query 9: 0 8
+Query 10: 3 7 9
+Case 62:
+Query 1: 0 8
+Query 2: 1 3 7
+Query 3: 2
+Query 4: 1 3 7
+Query 5: 4 9
+Query 6: 5
+Query 7: 6
+Query 8: 1 3 7
+Query 9: 0 8
+Query 10: 4 9
+Case 63:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3 8 9
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 7
+Query 9: 3 8 9
+Query 10: 3 8 9
+Case 64:
+Query 1: 0 3 8 9
+Query 2: 1 4
+Query 3: 2
+Query 4: 0 3 8 9
+Query 5: 1 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 0 3 8 9
+Query 10: 0 3 8 9
+Case 65:
+Query 1: 0 8 9
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 7
+Query 9: 0 8 9
+Query 10: 0 8 9
+Case 66:
+Query 1: 0 8
+Query 2: 1 4 7
+Query 3: 2
+Query 4: 3 9
+Query 5: 1 4 7
+Query 6: 5
+Query 7: 6
+Query 8: 1 4 7
+Query 9: 0 8
+Query 10: 3 9
+Case 67:
+Query 1: 0
+Query 2: 1
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 5 6 8 9
+Query 7: 5 6 8 9
+Query 8: 7
+Query 9: 5 6 8 9
+Query 10: 5 6 8 9
+Case 68:
+Query 1: 0
+Query 2: 1
+Query 3: 2 6 8
+Query 4: 3 5 9
+Query 5: 4
+Query 6: 3 5 9
+Query 7: 2 6 8
+Query 8: 7
+Query 9: 2 6 8
+Query 10: 3 5 9
+Case 69:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4 5 9
+Query 6: 4 5 9
+Query 7: 6 8
+Query 8: 1 7
+Query 9: 6 8
+Query 10: 4 5 9
+Case 70:
+Query 1: 0 6 8
+Query 2: 1
+Query 3: 2
+Query 4: 3 7
+Query 5: 4
+Query 6: 5 9
+Query 7: 0 6 8
+Query 8: 3 7
+Query 9: 0 6 8
+Query 10: 5 9
+Case 71:
+Query 1: 0
+Query 2: 1
+Query 3: 2 3 5 6 8 9
+Query 4: 2 3 5 6 8 9
+Query 5: 4
+Query 6: 2 3 5 6 8 9
+Query 7: 2 3 5 6 8 9
+Query 8: 7
+Query 9: 2 3 5 6 8 9
+Query 10: 2 3 5 6 8 9
+Case 72:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 5 6 8 9
+Query 7: 5 6 8 9
+Query 8: 1 7
+Query 9: 5 6 8 9
+Query 10: 5 6 8 9
+Case 73:
+Query 1: 0 5 6 8 9
+Query 2: 1
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 0 5 6 8 9
+Query 7: 0 5 6 8 9
+Query 8: 7
+Query 9: 0 5 6 8 9
+Query 10: 0 5 6 8 9
+Case 74:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 6 8
+Query 4: 3 5 9
+Query 5: 4
+Query 6: 3 5 9
+Query 7: 2 6 8
+Query 8: 1 7
+Query 9: 2 6 8
+Query 10: 3 5 9
+Case 75:
+Query 1: 0 2 6 8
+Query 2: 1 4
+Query 3: 0 2 6 8
+Query 4: 3 5 9
+Query 5: 1 4
+Query 6: 3 5 9
+Query 7: 0 2 6 8
+Query 8: 7
+Query 9: 0 2 6 8
+Query 10: 3 5 9
+Case 76:
+Query 1: 0 6 8
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 5 9
+Query 7: 0 6 8
+Query 8: 1 7
+Query 9: 0 6 8
+Query 10: 5 9
+Case 77:
+Query 1: 0 7
+Query 2: 1
+Query 3: 2
+Query 4: 3 5 6 8 9
+Query 5: 4
+Query 6: 3 5 6 8 9
+Query 7: 3 5 6 8 9
+Query 8: 0 7
+Query 9: 3 5 6 8 9
+Query 10: 3 5 6 8 9
+Case 78:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4 5 6 8 9
+Query 6: 4 5 6 8 9
+Query 7: 4 5 6 8 9
+Query 8: 1 7
+Query 9: 4 5 6 8 9
+Query 10: 4 5 6 8 9
+Case 79:
+Query 1: 0 5 6 8 9
+Query 2: 1
+Query 3: 2
+Query 4: 3 7
+Query 5: 4
+Query 6: 0 5 6 8 9
+Query 7: 0 5 6 8 9
+Query 8: 3 7
+Query 9: 0 5 6 8 9
+Query 10: 0 5 6 8 9
+Case 80:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3 4 5 9
+Query 5: 3 4 5 9
+Query 6: 3 4 5 9
+Query 7: 6 8
+Query 8: 1 7
+Query 9: 6 8
+Query 10: 3 4 5 9
+Case 81:
+Query 1: 0 6 8
+Query 2: 1 4
+Query 3: 2
+Query 4: 3 5 7 9
+Query 5: 1 4
+Query 6: 3 5 7 9
+Query 7: 0 6 8
+Query 8: 3 5 7 9
+Query 9: 0 6 8
+Query 10: 3 5 7 9
+Case 82:
+Query 1: 0 6 8
+Query 2: 1 3 7
+Query 3: 2
+Query 4: 1 3 7
+Query 5: 4 5 9
+Query 6: 4 5 9
+Query 7: 0 6 8
+Query 8: 1 3 7
+Query 9: 0 6 8
+Query 10: 4 5 9
+Case 83:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2
+Query 4: 3 5 6 8 9
+Query 5: 4
+Query 6: 3 5 6 8 9
+Query 7: 3 5 6 8 9
+Query 8: 1 7
+Query 9: 3 5 6 8 9
+Query 10: 3 5 6 8 9
+Case 84:
+Query 1: 0 3 5 6 8 9
+Query 2: 1 4
+Query 3: 2
+Query 4: 0 3 5 6 8 9
+Query 5: 1 4
+Query 6: 0 3 5 6 8 9
+Query 7: 0 3 5 6 8 9
+Query 8: 7
+Query 9: 0 3 5 6 8 9
+Query 10: 0 3 5 6 8 9
+Case 85:
+Query 1: 0 5 6 8 9
+Query 2: 1 7
+Query 3: 2
+Query 4: 3
+Query 5: 4
+Query 6: 0 5 6 8 9
+Query 7: 0 5 6 8 9
+Query 8: 1 7
+Query 9: 0 5 6 8 9
+Query 10: 0 5 6 8 9
+Case 86:
+Query 1: 0 6 8
+Query 2: 1 4 7
+Query 3: 2
+Query 4: 3 5 9
+Query 5: 1 4 7
+Query 6: 3 5 9
+Query 7: 0 6 8
+Query 8: 1 4 7
+Query 9: 0 6 8
+Query 10: 3 5 9
+Case 87:
+Query 1: 0 7
+Query 2: 1
+Query 3: 2 3 8 9
+Query 4: 2 3 8 9
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 0 7
+Query 9: 2 3 8 9
+Query 10: 2 3 8 9
+Case 88:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4 8 9
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 7
+Query 9: 4 8 9
+Query 10: 4 8 9
+Case 89:
+Query 1: 0 8 9
+Query 2: 1
+Query 3: 2 3 7
+Query 4: 2 3 7
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 2 3 7
+Query 9: 0 8 9
+Query 10: 0 8 9
+Case 90:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 8
+Query 4: 3 4 9
+Query 5: 3 4 9
+Query 6: 5
+Query 7: 6
+Query 8: 1 7
+Query 9: 2 8
+Query 10: 3 4 9
+Case 91:
+Query 1: 0 2 8
+Query 2: 1 4
+Query 3: 0 2 8
+Query 4: 3 7 9
+Query 5: 1 4
+Query 6: 5
+Query 7: 6
+Query 8: 3 7 9
+Query 9: 0 2 8
+Query 10: 3 7 9
+Case 92:
+Query 1: 0 8
+Query 2: 1 3 7
+Query 3: 2
+Query 4: 1 3 7
+Query 5: 4 9
+Query 6: 5
+Query 7: 6
+Query 8: 1 3 7
+Query 9: 0 8
+Query 10: 4 9
+Case 93:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 3 8 9
+Query 4: 2 3 8 9
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 7
+Query 9: 2 3 8 9
+Query 10: 2 3 8 9
+Case 94:
+Query 1: 0 2 3 8 9
+Query 2: 1 4
+Query 3: 0 2 3 8 9
+Query 4: 0 2 3 8 9
+Query 5: 1 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 7
+Query 9: 0 2 3 8 9
+Query 10: 0 2 3 8 9
+Case 95:
+Query 1: 0 8 9
+Query 2: 1 7
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 7
+Query 9: 0 8 9
+Query 10: 0 8 9
+Case 96:
+Query 1: 0 2 8
+Query 2: 1 4 7
+Query 3: 0 2 8
+Query 4: 3 9
+Query 5: 1 4 7
+Query 6: 5
+Query 7: 6
+Query 8: 1 4 7
+Query 9: 0 2 8
+Query 10: 3 9
+Case 97:
+Query 1: 0 1 7
+Query 2: 0 1 7
+Query 3: 2
+Query 4: 3 4 8 9
+Query 5: 3 4 8 9
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 0 1 7
+Query 9: 3 4 8 9
+Query 10: 3 4 8 9
+Case 98:
+Query 1: 0 3 7 8 9
+Query 2: 1 4
+Query 3: 2
+Query 4: 0 3 7 8 9
+Query 5: 1 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 0 3 7 8 9
+Query 9: 0 3 7 8 9
+Query 10: 0 3 7 8 9
+Case 99:
+Query 1: 0 4 8 9
+Query 2: 1 3 7
+Query 3: 2
+Query 4: 1 3 7
+Query 5: 0 4 8 9
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 3 7
+Query 9: 0 4 8 9
+Query 10: 0 4 8 9
+Case 100:
+Query 1: 0 8
+Query 2: 1 3 4 7 9
+Query 3: 2
+Query 4: 1 3 4 7 9
+Query 5: 1 3 4 7 9
+Query 6: 5
+Query 7: 6
+Query 8: 1 3 4 7 9
+Query 9: 0 8
+Query 10: 1 3 4 7 9
+Case 101:
+Query 1: 0 3 8 9
+Query 2: 1 4 7
+Query 3: 2
+Query 4: 0 3 8 9
+Query 5: 1 4 7
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 4 7
+Query 9: 0 3 8 9
+Query 10: 0 3 8 9
+Case 102:
+Query 1: 0 7
+Query 2: 1
+Query 3: 2 3 5 6 8 9
+Query 4: 2 3 5 6 8 9
+Query 5: 4
+Query 6: 2 3 5 6 8 9
+Query 7: 2 3 5 6 8 9
+Query 8: 0 7
+Query 9: 2 3 5 6 8 9
+Query 10: 2 3 5 6 8 9
+Case 103:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4 5 6 8 9
+Query 6: 4 5 6 8 9
+Query 7: 4 5 6 8 9
+Query 8: 1 7
+Query 9: 4 5 6 8 9
+Query 10: 4 5 6 8 9
+Case 104:
+Query 1: 0 5 6 8 9
+Query 2: 1
+Query 3: 2 3 7
+Query 4: 2 3 7
+Query 5: 4
+Query 6: 0 5 6 8 9
+Query 7: 0 5 6 8 9
+Query 8: 2 3 7
+Query 9: 0 5 6 8 9
+Query 10: 0 5 6 8 9
+Case 105:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 6 8
+Query 4: 3 4 5 9
+Query 5: 3 4 5 9
+Query 6: 3 4 5 9
+Query 7: 2 6 8
+Query 8: 1 7
+Query 9: 2 6 8
+Query 10: 3 4 5 9
+Case 106:
+Query 1: 0 2 6 8
+Query 2: 1 4
+Query 3: 0 2 6 8
+Query 4: 3 5 7 9
+Query 5: 1 4
+Query 6: 3 5 7 9
+Query 7: 0 2 6 8
+Query 8: 3 5 7 9
+Query 9: 0 2 6 8
+Query 10: 3 5 7 9
+Case 107:
+Query 1: 0 6 8
+Query 2: 1 3 7
+Query 3: 2
+Query 4: 1 3 7
+Query 5: 4 5 9
+Query 6: 4 5 9
+Query 7: 0 6 8
+Query 8: 1 3 7
+Query 9: 0 6 8
+Query 10: 4 5 9
+Case 108:
+Query 1: 0
+Query 2: 1 7
+Query 3: 2 3 5 6 8 9
+Query 4: 2 3 5 6 8 9
+Query 5: 4
+Query 6: 2 3 5 6 8 9
+Query 7: 2 3 5 6 8 9
+Query 8: 1 7
+Query 9: 2 3 5 6 8 9
+Query 10: 2 3 5 6 8 9
+Case 109:
+Query 1: 0 2 3 5 6 8 9
+Query 2: 1 4
+Query 3: 0 2 3 5 6 8 9
+Query 4: 0 2 3 5 6 8 9
+Query 5: 1 4
+Query 6: 0 2 3 5 6 8 9
+Query 7: 0 2 3 5 6 8 9
+Query 8: 7
+Query 9: 0 2 3 5 6 8 9
+Query 10: 0 2 3 5 6 8 9
+Case 110:
+Query 1: 0 5 6 8 9
+Query 2: 1 7
+Query 3: 2 3
+Query 4: 2 3
+Query 5: 4
+Query 6: 0 5 6 8 9
+Query 7: 0 5 6 8 9
+Query 8: 1 7
+Query 9: 0 5 6 8 9
+Query 10: 0 5 6 8 9
+Case 111:
+Query 1: 0 2 6 8
+Query 2: 1 4 7
+Query 3: 0 2 6 8
+Query 4: 3 5 9
+Query 5: 1 4 7
+Query 6: 3 5 9
+Query 7: 0 2 6 8
+Query 8: 1 4 7
+Query 9: 0 2 6 8
+Query 10: 3 5 9
+Case 112:
+Query 1: 0 1 7
+Query 2: 0 1 7
+Query 3: 2
+Query 4: 3 4 5 6 8 9
+Query 5: 3 4 5 6 8 9
+Query 6: 3 4 5 6 8 9
+Query 7: 3 4 5 6 8 9
+Query 8: 0 1 7
+Query 9: 3 4 5 6 8 9
+Query 10: 3 4 5 6 8 9
+Case 113:
+Query 1: 0 3 5 6 7 8 9
+Query 2: 1 4
+Query 3: 2
+Query 4: 0 3 5 6 7 8 9
+Query 5: 1 4
+Query 6: 0 3 5 6 7 8 9
+Query 7: 0 3 5 6 7 8 9
+Query 8: 0 3 5 6 7 8 9
+Query 9: 0 3 5 6 7 8 9
+Query 10: 0 3 5 6 7 8 9
+Case 114:
+Query 1: 0 4 5 6 8 9
+Query 2: 1 3 7
+Query 3: 2
+Query 4: 1 3 7
+Query 5: 0 4 5 6 8 9
+Query 6: 0 4 5 6 8 9
+Query 7: 0 4 5 6 8 9
+Query 8: 1 3 7
+Query 9: 0 4 5 6 8 9
+Query 10: 0 4 5 6 8 9
+Case 115:
+Query 1: 0 6 8
+Query 2: 1 3 4 5 7 9
+Query 3: 2
+Query 4: 1 3 4 5 7 9
+Query 5: 1 3 4 5 7 9
+Query 6: 1 3 4 5 7 9
+Query 7: 0 6 8
+Query 8: 1 3 4 5 7 9
+Query 9: 0 6 8
+Query 10: 1 3 4 5 7 9
+Case 116:
+Query 1: 0 3 5 6 8 9
+Query 2: 1 4 7
+Query 3: 2
+Query 4: 0 3 5 6 8 9
+Query 5: 1 4 7
+Query 6: 0 3 5 6 8 9
+Query 7: 0 3 5 6 8 9
+Query 8: 1 4 7
+Query 9: 0 3 5 6 8 9
+Query 10: 0 3 5 6 8 9
+Case 117:
+Query 1: 0 1 7
+Query 2: 0 1 7
+Query 3: 2 3 4 8 9
+Query 4: 2 3 4 8 9
+Query 5: 2 3 4 8 9
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 0 1 7
+Query 9: 2 3 4 8 9
+Query 10: 2 3 4 8 9
+Case 118:
+Query 1: 0 2 3 7 8 9
+Query 2: 1 4
+Query 3: 0 2 3 7 8 9
+Query 4: 0 2 3 7 8 9
+Query 5: 1 4
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 0 2 3 7 8 9
+Query 9: 0 2 3 7 8 9
+Query 10: 0 2 3 7 8 9
+Case 119:
+Query 1: 0 4 8 9
+Query 2: 1 2 3 7
+Query 3: 1 2 3 7
+Query 4: 1 2 3 7
+Query 5: 0 4 8 9
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 2 3 7
+Query 9: 0 4 8 9
+Query 10: 0 4 8 9
+Case 120:
+Query 1: 0 2 8
+Query 2: 1 3 4 7 9
+Query 3: 0 2 8
+Query 4: 1 3 4 7 9
+Query 5: 1 3 4 7 9
+Query 6: 5
+Query 7: 6
+Query 8: 1 3 4 7 9
+Query 9: 0 2 8
+Query 10: 1 3 4 7 9
+Case 121:
+Query 1: 0 2 3 8 9
+Query 2: 1 4 7
+Query 3: 0 2 3 8 9
+Query 4: 0 2 3 8 9
+Query 5: 1 4 7
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 1 4 7
+Query 9: 0 2 3 8 9
+Query 10: 0 2 3 8 9
+Case 122:
+Query 1: 0 1 3 4 7 8 9
+Query 2: 0 1 3 4 7 8 9
+Query 3: 2
+Query 4: 0 1 3 4 7 8 9
+Query 5: 0 1 3 4 7 8 9
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 0 1 3 4 7 8 9
+Query 9: 0 1 3 4 7 8 9
+Query 10: 0 1 3 4 7 8 9
+Case 123:
+Query 1: 0 1 7
+Query 2: 0 1 7
+Query 3: 2 3 4 5 6 8 9
+Query 4: 2 3 4 5 6 8 9
+Query 5: 2 3 4 5 6 8 9
+Query 6: 2 3 4 5 6 8 9
+Query 7: 2 3 4 5 6 8 9
+Query 8: 0 1 7
+Query 9: 2 3 4 5 6 8 9
+Query 10: 2 3 4 5 6 8 9
+Case 124:
+Query 1: 0 2 3 5 6 7 8 9
+Query 2: 1 4
+Query 3: 0 2 3 5 6 7 8 9
+Query 4: 0 2 3 5 6 7 8 9
+Query 5: 1 4
+Query 6: 0 2 3 5 6 7 8 9
+Query 7: 0 2 3 5 6 7 8 9
+Query 8: 0 2 3 5 6 7 8 9
+Query 9: 0 2 3 5 6 7 8 9
+Query 10: 0 2 3 5 6 7 8 9
+Case 125:
+Query 1: 0 4 5 6 8 9
+Query 2: 1 2 3 7
+Query 3: 1 2 3 7
+Query 4: 1 2 3 7
+Query 5: 0 4 5 6 8 9
+Query 6: 0 4 5 6 8 9
+Query 7: 0 4 5 6 8 9
+Query 8: 1 2 3 7
+Query 9: 0 4 5 6 8 9
+Query 10: 0 4 5 6 8 9
+Case 126:
+Query 1: 0 2 6 8
+Query 2: 1 3 4 5 7 9
+Query 3: 0 2 6 8
+Query 4: 1 3 4 5 7 9
+Query 5: 1 3 4 5 7 9
+Query 6: 1 3 4 5 7 9
+Query 7: 0 2 6 8
+Query 8: 1 3 4 5 7 9
+Query 9: 0 2 6 8
+Query 10: 1 3 4 5 7 9
+Case 127:
+Query 1: 0 2 3 5 6 8 9
+Query 2: 1 4 7
+Query 3: 0 2 3 5 6 8 9
+Query 4: 0 2 3 5 6 8 9
+Query 5: 1 4 7
+Query 6: 0 2 3 5 6 8 9
+Query 7: 0 2 3 5 6 8 9
+Query 8: 1 4 7
+Query 9: 0 2 3 5 6 8 9
+Query 10: 0 2 3 5 6 8 9
+Case 128:
+Query 1: 0 1 3 4 5 6 7 8 9
+Query 2: 0 1 3 4 5 6 7 8 9
+Query 3: 2
+Query 4: 0 1 3 4 5 6 7 8 9
+Query 5: 0 1 3 4 5 6 7 8 9
+Query 6: 0 1 3 4 5 6 7 8 9
+Query 7: 0 1 3 4 5 6 7 8 9
+Query 8: 0 1 3 4 5 6 7 8 9
+Query 9: 0 1 3 4 5 6 7 8 9
+Query 10: 0 1 3 4 5 6 7 8 9
+Case 129:
+Query 1: 0 1 2 3 4 7 8 9
+Query 2: 0 1 2 3 4 7 8 9
+Query 3: 0 1 2 3 4 7 8 9
+Query 4: 0 1 2 3 4 7 8 9
+Query 5: 0 1 2 3 4 7 8 9
+Query 6: 5 6
+Query 7: 5 6
+Query 8: 0 1 2 3 4 7 8 9
+Query 9: 0 1 2 3 4 7 8 9
+Query 10: 0 1 2 3 4 7 8 9
+Case 130:
+Query 1: 0 1 2 3 4 5 6 7 8 9
+Query 2: 0 1 2 3 4 5 6 7 8 9
+Query 3: 0 1 2 3 4 5 6 7 8 9
+Query 4: 0 1 2 3 4 5 6 7 8 9
+Query 5: 0 1 2 3 4 5 6 7 8 9
+Query 6: 0 1 2 3 4 5 6 7 8 9
+Query 7: 0 1 2 3 4 5 6 7 8 9
+Query 8: 0 1 2 3 4 5 6 7 8 9
+Query 9: 0 1 2 3 4 5 6 7 8 9
+Query 10: 0 1 2 3 4 5 6 7 8 9
+	

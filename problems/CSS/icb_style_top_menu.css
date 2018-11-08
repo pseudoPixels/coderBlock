@@ -1,0 +1,61 @@
+nav ul ul {
+	display: none;
+}
+nav ul li:hover > ul {
+		display: block;
+	}
+
+nav ul {
+	background: #006600; 
+	list-style: none;
+	position: relative;
+	display: 110%;
+	
+	
+	text-color: #FFFF00;
+	box-shadow: 10px 10px 15px rgba(0,0,0,0.3);
+	border-radius: 5px;  
+
+}
+nav ul li {
+	float: left;
+}
+
+nav ul:after {
+		content: ""; clear: both; display: block;
+	}
+nav ul li:hover {
+		background: #660000;
+		border-radius: 5px;
+	}
+nav ul li a {
+		display: block; padding: 10px 25px;
+		color: #FFFF00; text-decoration: none;
+		size: 100px;
+		font-family:comic sans ms;
+	}
+nav ul ul {
+	background: ##CC0000; border-radius: 5px; padding: 0;
+	position: absolute; top: 100%;
+}
+
+nav ul ul li {
+		float: none; 
+		border-top: 1px solid #6b727c;
+		border-bottom: 1px solid #575f6a;
+		position: relative;
+	}
+nav ul ul li a {
+			padding: 15px 40px;
+			color: #FFFF00;
+		}
+
+nav ul ul ul {
+	position: absolute; left: 100%; top:0%;
+}
+
+
+
+
+
+	

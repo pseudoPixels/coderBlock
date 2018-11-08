@@ -1,0 +1,61 @@
+nav ul ul {
+	display: none;
+}
+nav ul li:hover > ul {
+		display: block;
+	}
+
+nav ul {
+	background: #abcdef; 
+	padding: 0 10px;
+	list-style: none;
+	position: relative;
+	display: inline-table;
+	
+	
+	text-color: #FF00Ff;
+	box-shadow: 5px 5px 9px rgba(0,0,0,0.15);
+	border-radius: 5px;  
+
+}
+nav ul li {
+	float: left;
+}
+
+nav ul:after {
+		content: ""; clear: both; display: block;
+	}
+nav ul li:hover {
+		background: #efefef;
+		
+	}
+nav ul li a {
+		display: block; padding: 10px 50px;
+		color: #FFFFFF; text-decoration: none;
+		size: 50px;
+	}
+nav ul ul {
+	background: #abcdef; border-radius: 10px; padding: 0;
+	position: absolute; top: 100%;
+}
+
+nav ul ul li {
+		float: none; 
+		border-top: 1px solid #6b727c;
+		border-bottom: 1px solid #575f6a;
+		position: relative;
+	}
+nav ul ul li a {
+			padding: 15px 40px;
+			color: #fff;
+		}
+
+nav ul ul ul {
+	position: absolute; left: 100%; top:0%;
+}
+
+
+
+
+
+	

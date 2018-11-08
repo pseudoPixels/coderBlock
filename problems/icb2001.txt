@@ -1,0 +1,4 @@
+For each line of input produce one line of output. 
+This line contains any one of the relational operators >,  
+&lt or =, which indicates the relation that is appropriate for the given 
+two numbers.
